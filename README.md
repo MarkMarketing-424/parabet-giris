@@ -11,7 +11,7 @@
 <p><span style="font-weight: 400;">Tarayıcınızın arama &ccedil;ubuğuna &ldquo;Parabet resmi web sitesi&rdquo; veya &ldquo;Parabet casino&rdquo; sorgusunu girin. Genellikle resmi sayfa arama sonu&ccedil;larında ilk sırada yer alır. Sahte bir platforma d&uuml;şmemek i&ccedil;in dikkatli olun, ş&uuml;pheli bağlantılardan veya gereksiz alan adlarına sahip sitelerden ka&ccedil;ının.</span></p>
 <p></p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Doğrudan adres girişi</span></li>
-<p><span style="font-weight: 400;">Kumarhanenin resmi alan adını zaten biliyorsanız, bunu tarayıcınızın adres &ccedil;ubuğuna manuel olarak girin. &Ouml;rneğin: para-bets.com. Sahte kaynaklara gitmemek i&ccedil;in l&uuml;tfen yazımınızı kontrol edin.</span></p>
+<p><span style="font-weight: 400;">Kumarhanenin resmi alan adını zaten biliyorsanız, bunu tarayıcınızın adres &ccedil;ubuğuna manuel olarak girin. &Ouml;rneğin: para-bets . com. Sahte kaynaklara gitmemek i&ccedil;in l&uuml;tfen yazımınızı kontrol edin.</span></p>
 <p></p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Aynaları veya VPN'leri kullanma</span></li>
 </ol>
